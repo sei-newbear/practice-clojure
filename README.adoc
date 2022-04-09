@@ -1,0 +1,6 @@
+# Clojure
+
+https://github.com/microsoft/vscode-dev-containers/tree/main/containers/clojure[microsoft/vscode-dev-containers/containers/clojure]をベースに作成
+
+一旦、拡張機能を追加しただけ。
+Git管理外でもよさそうなものもあるが一旦Push
